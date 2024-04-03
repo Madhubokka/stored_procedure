@@ -1,0 +1,17 @@
+{
+    "iamobjectList": [
+      {
+        "project_name": "dpa1",
+        "environment": "sandpit1",
+        "dpa_snowflake_iam_role_name": "dpa1-sandpit1-snowflake-s3-access-role",
+        "resource_names": "dpa-sandbox-datapattern-data-analytics-poc"
+      },
+      {
+        "project_name": "dpa2",
+        "environment": "sandpit2",
+        "dpa_snowflake_iam_role_name": "dpa2-sandpit2-snowflake-s3-access-role",
+        "resource_names": "dpa-sandbox-datapattern-data-analytics-poc"
+      }
+    ]
+  }
+  

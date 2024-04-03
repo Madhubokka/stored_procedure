@@ -1,0 +1,23 @@
+{
+    "objectList": [
+      {
+        "warehouse_name": "DPA-WAH-POC-1",
+        "database_name": "DPA-POC-1",
+        "schema_name": "POCSNOW-1",
+        "dpa_snowflake_role": "dpa-account-developer-1",
+        "custom_aws_role_name": "dpa1-sandpit1-snowflake-s3-access-role",
+        "s3_bucket_url": "s3://dpa-sandbox-data-data-analytics-poc.s3.amazonaws.com/das/raw/",
+        "aws_account_id": "381492226534"
+      },
+      {
+        "warehouse_name": "DPA-WAH-POC-2",
+        "database_name": "DPA-POC-2",
+        "schema_name": "POCSNOW-2",
+        "dpa_snowflake_role": "dpa-account-developer-2",
+        "custom_aws_role_name": "dpa2-sandpit2-snowflake-s3-access-role",
+        "s3_bucket_url": "s3://dpa-sandbox-data-data-analytics-poc.s3.amazonaws.com/das/raw/",
+        "aws_account_id": "381492226534"
+      }
+    ]
+  }
+  

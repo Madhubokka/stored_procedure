@@ -1,0 +1,12 @@
+.terraform
+terraform.exe
+.terraform.lock.hcl
+install_apache.sh
+Madhu.pem
+.terraform.lock.hcl
+install_nginx.sh
+script.sh
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
+
